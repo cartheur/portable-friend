@@ -1,4 +1,4 @@
-[![GitHub license](https://img.shields.io/github/license/cartheur/portable-friend)](https://github.com/cartheur/portable-friend/blob/main/LICENSE.txt)
+[![GitHub license](https://img.shields.io/github/license/cartheur/portable-friend)](https://github.com/cartheur/portable-friend/blob/main/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/cartheur/portable-friend)](https://github.com/cartheur/portable-friend/issues)
 
 # portable-friend
