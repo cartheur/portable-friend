@@ -1,3 +1,5 @@
+[![GitHub issues](https://img.shields.io/github/issues/cartheur/portable-friend)](https://github.com/cartheur/portable-friend/issues)
+
 # portable-friend
 Source code from aeon generation one in the period of 2004 to 2007. This version was finalized in 2008 for the Motorola Moto-Q Smartphone.
 
