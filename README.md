@@ -10,3 +10,6 @@ This code was written in Visual Studio 2005/2008 with the Windows Mobile 6 Stand
 * Device Center x86 (if using Vista)
 * Active Sync 4.5 (if Using XP)
 * Windows Mobile 6 Standard SDK
+
+* Download and install the Microsoft Device Emulator 3
+* Download and install the Windows Mobile 6 Professional Images
