@@ -1,3 +1,4 @@
+[![GitHub license](https://img.shields.io/github/license/cartheur/portable-friend)](https://github.com/cartheur/portable-friend/blob/main/LICENSE.txt)
 [![GitHub issues](https://img.shields.io/github/issues/cartheur/portable-friend)](https://github.com/cartheur/portable-friend/issues)
 
 # portable-friend
@@ -17,3 +18,5 @@ This code was written in Visual Studio 2005/2008 with the Windows Mobile 6 Stand
 Once this is setup, open the Cartheur.Animals.Managed.sln file and it will open the solution. You will need to preload the contents of the Debug directory onto the device emulator for it to work.
 
 Currently the database is too large for the emulator. It will work properly on a real device, if you could find or recreate one. However, I will optimize the database into a smaller footprint so that the application functions.
+
+Note that this project is not under active development but is here for future interest.
