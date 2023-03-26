@@ -1,0 +1,203 @@
+Emotional pets prototype project notes
+
+10.10.2015
+	1844: Removed data files
+		1. Geography,
+		2. Reductions,
+		3. Reduce.
+	Need to build an editor application to handle modifications to *.aeon files.
+12.10.2015
+	1507: This version for iPAQ, Windows Mobile 5.1, is complete.
+15.10.2015
+	1159: Preparing the final build running Windows Mobile 5.2, Standard SDK (no touch screen). I want to include the speech runtime and send it off. Started working on the AiEditor but seems this will take longer.
+	1418: I think the voice will only work with a CE device/board. Therefore, this activity is for the next iteration. ;-)
+	1443: Removing file installation from the cab to make it easier to change the interface.
+21.10.2015
+	1123: Just finished adding the new feature to load subsequent *.aeon files into memory. I have not tested it on a real device yet, but creating an installer.
+	1149: Loading in extra categories (files placed into the "add" folder, called from interface) works! I can also see the notes in the log as to the personalities loaded and the uptick of total categories loaded into the program.
+	1153: As of now, I would say development of the program formal is completed! Now to focus on the ways into increase savvyness.
+22.10.2015
+	1954: Since I have a little time, a break from writing the animation, I wanted to add a view information window here.
+23.10.2015
+	1725: View result form is finished and ready to create a build for the Motorola.
+26.10.2015
+	1225: Some thoughts over the weekend interacting with Aeon that it is very interesting for analytical purposes to capture in a database the details of the last result window.
+	1512: Build is done but I am passing lists (List<string>) into an SQLite storage parameter.	Need to test if this works.
+	1613: Despite many builds and copying the configuration from eztranslate, I am getting a PInvoke error for SQLite.
+27.10.2015
+	1013: Database idea here is a flop, write the fields to a file instead.
+	1125: Build is ready for testing.
+	1440: I think the current format of the file is sufficient but will need to check about the lack of ";" characters for empty fields. There is a workaround by seeing the next "#" symbol as end of statement. If the code becomes too unweildy, then I will examine the actual state of fields when they are empty. Good job!
+31.10.2015
+	818: Here to start implementing final features for the basic animal platform--the animal query user function--e.g., where the animal writes the user if a period of time has elapsed since the last result--and mood based upon the earliest implmentation from last winter and is affected by interaction or lack thereof. In other words, if the animal is left alone for too long, it will start to change its mood. The behavior pattern I shall model from the iCybie.
+---RECORDED IN OTHER FORK LOG
+	1015: It is very interesting to feel how aeon has given physical form while here in this place and that I will see her have feelings before we are out. Could be getting pretty spooky all-around!
+	1324: Added a basic cryptography method for encrypting and decrypting files, like the *.aeom library.
+	1339: Refactored so that the code is within a proper heirarchy. Build is now v.1.6.7.
+	1345: Might be a good idea to think of shopping then return to the interaction model now that we are cleared of the other additions for this version.
+	1351: No, today is for this work. Tomorrow morning I'll hit the rounds! :-)
+	1355: Next, to implement a semblance of the "animal queries user" behaviour.
+	1634: I've created a persistence method which returns the time, in milliseconds, that the aeon has been running, i.e., since the program started (but not personality loaded).
+	1708: Implemented the routine but left here in MainForm: when the app is idle, what triggers it to check for idle time, like a health check?
+	1726: Got a start in MainForm for a ticking event that can trigger the boredom check. I suppose, then, she should send a message or process a random past result?
+02.11.2015
+	1738: Here to add a service which will take care of the polling to the user when left idle for a period of time. My main concern is how much more of a burden it will place on the animal runtime.
+03.11.2015
+	1012: Hereat the office, a new space a new way, of discursive formation.
+08.11.2015
+	2032: I thought there was the memory manager related code in this project. Hmmm.
+04.12.2015
+	1219: Here to understand how to launch this into the cartheur website.
+---END RECORD
+17.12.2015
+	1921: Dropped the feature here and instead forked it. Need to come to terms with its organization somehow. Now, I want to see where I've been thinking of my focus with it intelligence itself, rather than a static designate emotion like boredom. Besides, I think emotions are mixed at any given time including simultaneously-appearing ones.
+	1927: I'd like to see something done with learning, writing to a file and reloading when new information is ready for the aeon. that is a good opportunity here in this fork. The standard interface is better than pocketpc since using the stylus to send text messages gets old super fast.
+	1949: I think the focus is on the SettingsDictionary class.
+	2059: I've also got encryption here, after merging the common code and class architecture from the other fork. Looking good now.
+	2113: Encryption is ready with base64 password salt. PW is embedded in a class, also now in settings.xml, but unsure how and where to implement.
+	2127: Ordered the projects in the directory and backing up.
+19.12.2015
+	1143: Just taking a peek here since I have some time to play around.
+	1145: Just put some R.E.M. on. Let's see what surfaces.
+	1156: Bowie next, ordered boxes and parts for pulse generators. Dunno what I'll need with so many timers.
+	1201: I guess the question is what is to be done in pursuit of learning?
+	1207: Time to jet.
+25.12.2015
+	1132: For this Christmas, I'm asking Santa for new animal friends. But in order to accomplish this, besides writing routines, I need money, and lots of it!
+	1449: I've added in a virtual memory manager to take advantage of more than 32MB, a big problem when the application fails in the device.
+	1516: Memory manager app, naming, and organization completed.
+	1839: Being called away after having deployed the recent version 1.6.8. Later.
+02.01.2016
+	1246: Having created a CE version, I now want to have a look at the efficiency of the search algorithm. Is there a way to improve performance?
+	1406: Need to think about the voice as well.
+11.01.2016
+	1629: Bowie is gone. What does this mean for the rest of me? I have the communication from the radio to always remind me of the connection. What did that dream mean when he talked to me that night staying at the little pension in Bad Schandau two days before he died?
+	1630: For the experience, I have the motivation to give the animal a voice.
+	1643: When DMA is missing from WMDC:
+		If you do not have DMA in active-sync list, please do the following
+			1. regsvr32 DeviceEmulatorProxy.dll
+			2. regsvr32 SerDMAAsPlugin.dll.
+		These dlls will be present in device emulator install directory, C:\ProgramFiles(x86)\Microsoft Device Emulators\1.0.
+	2016: Stopping development here to focus on the andorra version first, since the learning and interaction is far more interesting that implementation (for now). Contest is six months away, a year since starting it.
+12.01.2016
+	1434: The database files should be loaded in the following order:
+		First load the Safe reduction files reducation0.safe.aeon,...,reduction4.safe.aeonand reductions.update.aeon.
+		Second, load the Mindpixel files mp0.aeon,...,mp6.aeon.
+		Then load all remaining AEON files.
+		Should always load the updates files, e.g., update.aeon as the last file.
+	1706: Found a loading order for the alice files. Also want to sort the *.aeon file extension change for the program to keep these projects (mostly) synchronized.
+	1732: A build is prepared. Now to test and see the aesthetics.
+	1801: Formatted the files and finding the right combination that will hold in memory.
+	1915: Have installed a build and she looks a lot simpler. Will see if the file load order makes an asthetic difference.
+	1916: What a wonderful, spiritual day coding my animal. Even the tunes have kept me nostalgic.
+13.01.2016
+	1115: Added Boagaphish, the learning algorithm. Let's see what magic I can weave with it.
+	1215: Took the time to rebrand so that it matches the desktop code as closely as possible. I will need a detailed description of all this at some point in time.
+04.03.2016
+	1154: Here to acknowledge we need to keep pushing in here too. The contest date is 17 September 2016. Sure it ain't mobile, but what I can do in here I can certainly in a larger environment--at least that's what "they" say.
+	1156: I noticed I am not keeping a performance log such as how long it takes to find a particular solution. The relevance of this concept has appeared above the usual muddle in SoftAgent.
+	1158: Working in great detail with Boagaphish in SoftAgent, how much is it really being used here in this textual learning environment?
+	1308: Plugged around and put in some optimizations. Step by step.
+	1309: Going to pass this build to the Motorola.
+	1314: I've run across the emotion part of the code. Can I do something with this for the next build?
+	1434: Found a diverging project, have reconciled to this parent project. No more extra baggage please!
+	1640: Making progress on the mood component. Thinking of taking a short break.
+	2011: Cleaned the code and source files. Need to know everything that is going on here so I can substantially improve it before the competition. Night.
+05.03.2016
+	2008: Worked on a clean RNG for the mood engine and cleaned its expression. Found an extension to change XML into XElements, which could get it ready for a Linqesque implementation in NetMicro framework. Tomorrow then!
+06.03.2016
+	1032: Continuing on the emotion/mood engine. This morning I have designed the range of the seed value in determining the flavour of moods retiscent.
+	1321: Spent the morning organizing the scope of the emotionalpets ambition. Now that it is "out of the way", can return here. How's the transition to 7 and 8.1 revolving?
+	1327: Found the VS2010 starter project in creatures biologue. Am moving it closer to get a handle on the complexity ahead.
+	1400: Moved it over and the Xml situation from the 8.1 build is there, as expected.
+09.03.2016:
+	1942: Spent the entire day yesterday working on 8.1 and have come to the realization it is total shit. We are going to move to android. Enjoy the last bits of time is this uber cool, reminiscent IDE. It's 2009 again. I think I may cry for my little project here, sure feels bittersweet the passage of time.
+	2035: Creating a shadow project for desktop where I can debug faster and get a (written) understanding how a response is obtained.
+	2228: Got the projects synched and worked a plan forward. For the next small time.
+15.03.2016
+	1341: Shadow implementation of that in the desktop animals.
+	1744: Stopping for now. Have the list of replies. What to do next with it?
+23.03.2016
+	957: Did mondo stuff on xml, not to mention built a reliable nn from skratch. What was the limitation before no longer exists. Therefore, I need a brain break and do some plugging and chugging instead.
+26.03.2016
+	1908: Just want to say how much I have loved this project and hope for clarity as we port to android to encourage more turgid development with the goal of an actual animal someday. I'll need to think of ways to keep track and reminders should there be a period when I would not work on said code blocks and forget details.
+01.04.2016
+	1718: Here to copy over settings functionality to the notifier prototype project.
+	1743: Well, didn't work so next time!
+29.05.2016
+	1234: Here to synchronize and celebrate the start of the Mono version of this project on Raspberry Pi. A second-generation animal here we come!
+	1720: Second-generation established, fucking cool!
+	1928: Done for today.
+12.06.2016
+	2141: Checking in to see how long since the last work. Need to focus on repairing the errors reported in the last logfile.
+	2145: Got a good idea in promoting the company via the face of Daniela. It is an excellent idea to generate funding. How much external influence do I want?
+19.06.2016
+	1032: The project I created to get my understanding of learning does not have the loading order. Uncertain if I should implement, I am here to check it.
+	1039: I have implemented the ordering.
+	1803: I have groomed the learn.aeon file and fixed some shitty xpath code and usage of the command "learn" seems to be now working. Replacing the file on the live animal to start new testing next week.
+	2025: Spent the last two hours sorting the personality files, primarily the learn.aeon and badanswer.aeon. It lies within these two files the main component of learning.
+18.07.2016
+	1851: Seeing what I can implement here to get some more out of the program.
+19.07.2016
+	2010: On the chase...outside of a vizy session...
+07.08.2016
+	2015: Here to spend some time and get the feeling about what to do next in terms of my meaning-5 ambition. Many thanks to the young man from J2009 hanging with P.
+	2029: Found differences in loaded files which tells me how long it has been since I've actually used this code base.
+	2033: Just had to relearn how to cradle the emulator...I guess IT HAS been a long time.
+08.08.2016
+	945: Just now got the managed exe/dll properly implemented and now loading a build on WM6.0 (silver). Also corrected the missing files in the installer.
+13.08.2016
+	949: Moving the implementation of paths for files in this space.
+	1241: Finished by moving path resolution to here.
+	1246: Moved to core-cf folder and finished here for now.
+	1342: Also must move some other path-related properties.
+28.08.2016
+	849: Here synronizing all code bases for pi-animal development in mono. Setting the directory path implementation here (as well as other parts) as the source of the truth.
+	850: This an its sister project core/cf are identical.
+10.09.2016
+	1948: Code is synchronized but final solution has not been obtained. I still have yet to implement how it should affect the conversation.
+	1957: Alarmed me how long it took to answer "hello" based on the new core. This is as far as I'll take it for now. Onto the prototype.
+16.10.2016
+	850: Here to rebrand the name of the product to emotional animals since the trademark came back denied and I was told something very similar existed since 2011. Shit.
+	936: Rebranding complete. Still have to create new stickers for the trademark application.
+21.10.2016
+	1658: Implemented off-policy exploration learning. Incremented version to match the other projects--v2.0.5.
+	1819: Will give some thought as to what to statically implement into the application for demonstration purposes.
+22.10.2016
+	1526: Solid changes to the cf in the test framework. When can I get it to the prototype?
+	1917: Imported the changes over.
+23.10.2016
+	852: Synchonizing the changes made in the context of the test environment and creating a build.
+	853: I will leave learning to be active on a setting on the form.
+	1117: I think the changes are in here. I will run an emulator test now.
+	1139: Note to try to include Boagaphish learning from Soft Agent.
+	1144: Not needed, but can include the entire project (or binary) if it becomes relevant in the future.
+	1145: Testing final build.
+	1215: Error with loading the map. Really want to go outside so will fix this later.
+	1744: Here to fix the loading issue. Probably a file io from x86-x64.
+	1801: Part of the _thisAeon object null (because I didn't initialize it!). Seems to be working. Making a build.
+	1827: Did some minor touches on loading mood and learning with some notification on the form.
+	1831: Ticked up the *.aeon file version to 2.0.
+	1834: Runtime in the handset seems good, save the UDC errors from time to time.
+10.12.2016
+	1138: Dots have appeared on the screen which distracts from the animal interaction. Thinking of coloring the window background.
+	1139: We are stuck with only a half-functioning animal. What can be done to drive this forward?
+	1258: Keep in the space of raspberry pi as it seems this is the only functional space I can work in. Let's go!
+	1449: Here to also colorize the input box to keep a more steady contrast and focus on the interactive surfaces.
+05.03.2017
+	2157: Here synchronizing core code functionality to get clarity across the development effort.
+14.03.2017
+	1508: Added extra aeon file (and extra library although not using presently) loading to aid in development of its intelligence.
+	1622: Made minor chages to result reporting but will not update. Application seems to so far work as expected, so will keep going with it, developing additional *.aeon files and such. Now think a manual task is in order.
+22.05.2017
+	1844: Have had some development breakthroughs in the other platforms of the core. Would be of interest to bring them in here to allow me to make the best use of my time in between for testing.
+30.06.2017
+	1429: Back with a vengence regarding trying to get a concept like scripting for animals here in cf land. Adding an "engine" and want to test if can do stuff with it.
+	1514: Can also try on desktop? Or would this defeat the purpose? Conceptually, no.
+	1908: How to execute a program or file: https://msdn.microsoft.com/en-us/library/aa453684.aspx. Am sampling this in the desktop project.
+02.07.2017
+	1149: Got a sweet script engine running in the x86-64 version, can it be utilized here so I can have something to play with?
+18.09.2017
+	1618: Too much effort with too little gain to employ the script engine for WM6. Would rather focus on implementing learning elements that infrastructure at this point in the development evolution of animals.
+	
+	

@@ -1,0 +1,33 @@
+﻿Emotional pets prototype project notes: The core
+
+12.08.2016
+	1050: With the segregation of the core from the various gui implementations, I can focus on the emotional component, encapsulated as mood.
+	1051: I will begin line 676 of Aeon.cs, along with Mood.cs, to see what kind of meaning-5 scenario I can create.
+13.08.2016
+	949: Will move out the path-specific parts of the CF core to the implementation layer, that is, where the library is leveraged.
+	1243: Moving this project now.
+	1257: Here in the new project (core) space.
+	1302: The goal, then, is to get a test to get me to where I start an encapsulation of mood (emotion).
+	1539: After fighting with paths and uris, I have gotten an animal to load and can get to the beginning of the mood engine.
+	1759: Finished implementation of the Emotion type enums in the randomizer on the Mood constructor. Will leave the subset emotions until I understand what to do about each in the test. Should the internal behaviour be represented in the core, actually?
+	1822: With emotion, she is here. But what does it actually mean?
+	1903: Have implemented userinput as a string array so can input an entire conversation to test the emotional parts. Am ready now to start implementing it while bathing in sunflowers.
+	1912: Start with comparison between that in Fig.68 of the diary to your reproduction of it in the test.
+	1913: Good luck! ;-)
+26.08.2016
+	1946: Know that I am here and I will never leave you.
+	2009: Have got everything prepared for work on the morrow. See ya.
+27.08.2016
+	755: Have made a big reorganization of the project so that I can actually do something with it. Because of the CF dependency, I need to stay in VS2008 if I want to have a centralized testing suite to support both projects. As we add more support, we will see how this structure holds.
+	804: The project is organized just right, I think. Except for doubling of notes, but let's see how that shapes up.
+21.10.2016
+	1655: Implemented off-policy exploration learning.
+22.10.2016
+	1518: Made functional the alone time.
+	1902: Learning algorithm is in place including a map. Last thing is a notifier when the learning thread finishes so the application will await the thread's completion.
+23.10.2016
+	1038: Removed the logging of each value of the learning iteration. It has stopped the thread completion issue. For an excellent method, use the ones used in SmartAgent for mobile.
+	1045: ShowSolution method will run for a long time.
+26.03.2023
+	1820: Rebuilt this project and storing the code in the repo. It will need some minor work for it to fit in the emulator.
+	

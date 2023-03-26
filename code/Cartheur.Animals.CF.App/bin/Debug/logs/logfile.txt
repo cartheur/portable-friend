@@ -1,0 +1,4 @@
+August 2016
+Program runtime logfile in support of interacting with an artificial animal
+
+----

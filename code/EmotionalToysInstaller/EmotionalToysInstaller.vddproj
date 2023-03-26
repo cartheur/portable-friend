@@ -1,0 +1,1883 @@
+"DeployProject"
+{
+"VSVersion" = "3:701"
+"ProjectType" = "8:{AB322303-2255-48EF-A496-5904EB18DA55}"
+"IsWebType" = "8:FALSE"
+"ProjectName" = "8:EmotionalToys"
+"LanguageId" = "3:1033"
+"CodePage" = "3:1252"
+"SccProjectName" = "8:"
+"SccLocalPath" = "8:"
+"SccAuxPath" = "8:"
+"SccProvider" = "8:"
+    "Hierarchy"
+    {
+        "Entry"
+        {
+        "MsmKey" = "8:_0242D4E3F4614B12BBD1201CA0B40D75"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_029FB8F48EA947C49D280C1AF26975D0"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_0313657AB9734390A770FD0D37D18413"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_09C8451611AF3A6BC326D28A3367F154"
+        "OwnerKey" = "8:_E82D7F599DFC4DBEA1E52CEE2E49564E"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_09C8451611AF3A6BC326D28A3367F154"
+        "OwnerKey" = "8:_B519EE1FC211E4D1FA07F95194A12A86"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_09C8451611AF3A6BC326D28A3367F154"
+        "OwnerKey" = "8:_8FB9B37DFBB5DBA09474AEA6792DB60C"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_0AEC7A0C0DEE4045AD21462CCDA8B3FB"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_0EEFB63ED71C42B39D6445407B972B7B"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_0F369BA379C832C2CCEED60918D8490A"
+        "OwnerKey" = "8:_6C509F7040A4F479BC235355028B96CF"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_0F369BA379C832C2CCEED60918D8490A"
+        "OwnerKey" = "8:_B519EE1FC211E4D1FA07F95194A12A86"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_0F369BA379C832C2CCEED60918D8490A"
+        "OwnerKey" = "8:_E82D7F599DFC4DBEA1E52CEE2E49564E"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_0F369BA379C832C2CCEED60918D8490A"
+        "OwnerKey" = "8:_16E0F7658BA878A5A943D9775945F3CD"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_0F50ED49312A4864AEAA26478A4C4AA9"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_0F8905942040420DA124EFCC80A1FDD5"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_12477D6772264FA7B15698F7485299AF"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_16E0F7658BA878A5A943D9775945F3CD"
+        "OwnerKey" = "8:_6C509F7040A4F479BC235355028B96CF"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_16E0F7658BA878A5A943D9775945F3CD"
+        "OwnerKey" = "8:_B519EE1FC211E4D1FA07F95194A12A86"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_16E0F7658BA878A5A943D9775945F3CD"
+        "OwnerKey" = "8:_E82D7F599DFC4DBEA1E52CEE2E49564E"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_17D061D087DC41E7BC4D8F27B888A92E"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_246120AA1FEFEDA949BE2A2BE4D6AB5C"
+        "OwnerKey" = "8:_E82D7F599DFC4DBEA1E52CEE2E49564E"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_246120AA1FEFEDA949BE2A2BE4D6AB5C"
+        "OwnerKey" = "8:_6C509F7040A4F479BC235355028B96CF"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_246120AA1FEFEDA949BE2A2BE4D6AB5C"
+        "OwnerKey" = "8:_B519EE1FC211E4D1FA07F95194A12A86"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_246120AA1FEFEDA949BE2A2BE4D6AB5C"
+        "OwnerKey" = "8:_8FB9B37DFBB5DBA09474AEA6792DB60C"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_246120AA1FEFEDA949BE2A2BE4D6AB5C"
+        "OwnerKey" = "8:_30CBCC811948AF28ACDDD43BE9C49CD3"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_246120AA1FEFEDA949BE2A2BE4D6AB5C"
+        "OwnerKey" = "8:_16E0F7658BA878A5A943D9775945F3CD"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_246120AA1FEFEDA949BE2A2BE4D6AB5C"
+        "OwnerKey" = "8:_0F369BA379C832C2CCEED60918D8490A"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_246120AA1FEFEDA949BE2A2BE4D6AB5C"
+        "OwnerKey" = "8:_B4A9B61E77920B5D7FEDD3569D40FAC2"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_246120AA1FEFEDA949BE2A2BE4D6AB5C"
+        "OwnerKey" = "8:_09C8451611AF3A6BC326D28A3367F154"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_26F16E07CEEC4E8A8A6E89FABA12C982"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_29EF74D752B94C7184C28365910AFE80"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_2A5CA126C3924273A33E9A043BFA0C1B"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_2CA9920DB98742D582C5DAEFC3F08D69"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_30CBCC811948AF28ACDDD43BE9C49CD3"
+        "OwnerKey" = "8:_B519EE1FC211E4D1FA07F95194A12A86"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_30CBCC811948AF28ACDDD43BE9C49CD3"
+        "OwnerKey" = "8:_E82D7F599DFC4DBEA1E52CEE2E49564E"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_30CBCC811948AF28ACDDD43BE9C49CD3"
+        "OwnerKey" = "8:_8FB9B37DFBB5DBA09474AEA6792DB60C"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_4185C700D598481690D0B3DF38555CA0"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_48BD6EF5E016445D923BFAACDB5804AC"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_4C320933799D4F9AAFB2665C84C00C96"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_4E54897DBD18486E902A9E7C630D13D3"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_52059F1412B94151B647E66F5A6362FF"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_5C7E00F2CD5B45B28C6497BFCA52E346"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_61B4B9514355485D8D18CCC9CD4EF3A2"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_6977AC191CFB477EBFA6A426981151EF"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_6A21A77DA01241B19D789B4B7C1C946A"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_6C509F7040A4F479BC235355028B96CF"
+        "OwnerKey" = "8:_E82D7F599DFC4DBEA1E52CEE2E49564E"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_6CDDCB20151A4D40BD11A8AF164A4A70"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_6EAC3AF2D3134C6EB814573D3A08D6E3"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_6FE3532729B5492798763FF3303B3AC7"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_732A5D9BD9CB44DE8D054322ED35FA70"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_79C097A65D1D43A094CCCCED06200F16"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_7E90094EF04445D89D07226C491DD2B1"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_8E709DC7246F4CCCBD55F73743FA0F72"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_8FB9B37DFBB5DBA09474AEA6792DB60C"
+        "OwnerKey" = "8:_B519EE1FC211E4D1FA07F95194A12A86"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_8FB9B37DFBB5DBA09474AEA6792DB60C"
+        "OwnerKey" = "8:_E82D7F599DFC4DBEA1E52CEE2E49564E"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_97A3954612A54475B4886F68F6EDF567"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_A90D2E8CC7A341EA94674BB73AEEF0B1"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_AD925EB185B14DD7ADDD94C8135BF9D7"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_AF21C59385D34F7085D5183925323242"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_B4A9B61E77920B5D7FEDD3569D40FAC2"
+        "OwnerKey" = "8:_E82D7F599DFC4DBEA1E52CEE2E49564E"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_B4A9B61E77920B5D7FEDD3569D40FAC2"
+        "OwnerKey" = "8:_6C509F7040A4F479BC235355028B96CF"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_B4A9B61E77920B5D7FEDD3569D40FAC2"
+        "OwnerKey" = "8:_B519EE1FC211E4D1FA07F95194A12A86"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_B4A9B61E77920B5D7FEDD3569D40FAC2"
+        "OwnerKey" = "8:_30CBCC811948AF28ACDDD43BE9C49CD3"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_B4A9B61E77920B5D7FEDD3569D40FAC2"
+        "OwnerKey" = "8:_16E0F7658BA878A5A943D9775945F3CD"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_B519EE1FC211E4D1FA07F95194A12A86"
+        "OwnerKey" = "8:_E82D7F599DFC4DBEA1E52CEE2E49564E"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_B519EE1FC211E4D1FA07F95194A12A86"
+        "OwnerKey" = "8:_6C509F7040A4F479BC235355028B96CF"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_B528F6CC22BA443FA1FF1118283734BC"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_B5514DD04A2244EAB3E54FAE5B21C636"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_BB0A98A0CCFE408AA9A4CD94A3F6663D"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_BF8D7DA9800D4CA29214EF954EE918BF"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_C4ABCE0DE5CC442E846C35C7AF9F68DD"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D2241B94227C497997605210B474BD4C"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D51C64B59B2940ED8238215A773B1CF6"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D97073CB14FC4DC89BA6ADB2D4468B42"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_DA8C72A346504E4386FE24DDE7786175"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_DAA3456E5EF640248E6F90C2795CEFBC"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_DB537AA5039E49E0BBC793B8420E24ED"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_E82D7F599DFC4DBEA1E52CEE2E49564E"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_E9D58A73E65C4871A678995135B10C47"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_ECBE8345D41748C3BE88186A4A46EB8F"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_FAE6BB8C65884D07886553CE9485120A"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+    }
+    "Configurations"
+    {
+        "Debug"
+        {
+        "DisplayName" = "8:Debug"
+        "IsDebugOnly" = "11:TRUE"
+        "IsReleaseOnly" = "11:FALSE"
+        "OutputFilename" = "8:Debug\\EmotionalToys.cab"
+        "PackageFileSize" = "3:-2147483648"
+        "CabType" = "3:1"
+        "SignOutput" = "11:FALSE"
+        "CertificateHash" = "8:"
+        "TimeStampServer" = "8:"
+        }
+        "Release"
+        {
+        "DisplayName" = "8:Release"
+        "IsDebugOnly" = "11:FALSE"
+        "IsReleaseOnly" = "11:TRUE"
+        "OutputFilename" = "8:Release\\EmotionalToys.cab"
+        "PackageFileSize" = "3:-2147483648"
+        "CabType" = "3:1"
+        "SignOutput" = "11:FALSE"
+        "CertificateHash" = "8:"
+        "TimeStampServer" = "8:"
+        }
+    }
+    "Deployable"
+    {
+        "File"
+        {
+            "{BA458234-9B71-4F46-8107-E91156377184}:_0242D4E3F4614B12BBD1201CA0B40D75"
+            {
+            "SourcePath" = "8:..\\Cartheur.Animals.CF.App\\bin\\Debug\\db\\AnimalAnalytics.txt"
+            "TargetName" = "8:AnimalAnalytics.txt"
+            "Tag" = "8:"
+            "Folder" = "8:_A885ADF8ACB54E8899EE7D433BF5C18A"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_029FB8F48EA947C49D280C1AF26975D0"
+            {
+            "SourcePath" = "8:..\\Cartheur.Animals.CF.App\\bin\\Debug\\personality\\knowledge.aeon"
+            "TargetName" = "8:knowledge.aeon"
+            "Tag" = "8:"
+            "Folder" = "8:_486CC51F87EC4BA49587A92204FE79C1"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_0313657AB9734390A770FD0D37D18413"
+            {
+            "SourcePath" = "8:..\\Cartheur.Animals.CF.App\\bin\\Debug\\reductions\\reductions-update.aeon"
+            "TargetName" = "8:reductions-update.aeon"
+            "Tag" = "8:"
+            "Folder" = "8:_92EFCFD2FB2A46F5875555E405C83CA7"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_09C8451611AF3A6BC326D28A3367F154"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=969db8053d3322ac"
+                "ScatterAssemblies"
+                {
+                    "_09C8451611AF3A6BC326D28A3367F154"
+                    {
+                    "Name" = "8:System.Core.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:System.Core.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_DDBD501FD5804F83B54BA028FBF710B6"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:TRUE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_0AEC7A0C0DEE4045AD21462CCDA8B3FB"
+            {
+            "SourcePath" = "8:..\\Cartheur.Animals.CF.App\\bin\\Debug\\personality\\badanswer.aeon"
+            "TargetName" = "8:badanswer.aeon"
+            "Tag" = "8:"
+            "Folder" = "8:_486CC51F87EC4BA49587A92204FE79C1"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_0EEFB63ED71C42B39D6445407B972B7B"
+            {
+            "SourcePath" = "8:..\\Cartheur.Animals.CF.App\\bin\\Debug\\personality\\iu.aeon"
+            "TargetName" = "8:iu.aeon"
+            "Tag" = "8:"
+            "Folder" = "8:_486CC51F87EC4BA49587A92204FE79C1"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_0F369BA379C832C2CCEED60918D8490A"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:System.Drawing, Version=3.5.0.0, Culture=neutral, PublicKeyToken=969db8053d3322ac"
+                "ScatterAssemblies"
+                {
+                    "_0F369BA379C832C2CCEED60918D8490A"
+                    {
+                    "Name" = "8:System.Drawing.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:System.Drawing.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_DDBD501FD5804F83B54BA028FBF710B6"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:TRUE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_0F50ED49312A4864AEAA26478A4C4AA9"
+            {
+            "SourcePath" = "8:..\\Cartheur.Animals.CF.App\\bin\\Debug\\config\\GenderSubstitutions.xml"
+            "TargetName" = "8:GenderSubstitutions.xml"
+            "Tag" = "8:"
+            "Folder" = "8:_268B80877EB748468D13DCD23B472909"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_0F8905942040420DA124EFCC80A1FDD5"
+            {
+            "SourcePath" = "8:..\\Cartheur.Animals.CF.App\\bin\\Debug\\personality\\xfind.aeon"
+            "TargetName" = "8:xfind.aeon"
+            "Tag" = "8:"
+            "Folder" = "8:_486CC51F87EC4BA49587A92204FE79C1"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_12477D6772264FA7B15698F7485299AF"
+            {
+            "SourcePath" = "8:..\\Cartheur.Animals.CF.App\\bin\\Debug\\reductions\\reductions2.aeon"
+            "TargetName" = "8:reductions2.aeon"
+            "Tag" = "8:"
+            "Folder" = "8:_92EFCFD2FB2A46F5875555E405C83CA7"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_16E0F7658BA878A5A943D9775945F3CD"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:System.Windows.Forms, Version=3.5.0.0, Culture=neutral, PublicKeyToken=969db8053d3322ac"
+                "ScatterAssemblies"
+                {
+                    "_16E0F7658BA878A5A943D9775945F3CD"
+                    {
+                    "Name" = "8:System.Windows.Forms.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:System.Windows.Forms.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_DDBD501FD5804F83B54BA028FBF710B6"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:TRUE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_17D061D087DC41E7BC4D8F27B888A92E"
+            {
+            "SourcePath" = "8:..\\Cartheur.Animals.CF.App\\bin\\Debug\\add\\geography.aeon"
+            "TargetName" = "8:geography.aeon"
+            "Tag" = "8:"
+            "Folder" = "8:_9ECA0F694CD44FAFAF45053078A34CEF"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_246120AA1FEFEDA949BE2A2BE4D6AB5C"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:mscorlib, Version=3.5.0.0, Culture=neutral, PublicKeyToken=969db8053d3322ac"
+                "ScatterAssemblies"
+                {
+                    "_246120AA1FEFEDA949BE2A2BE4D6AB5C"
+                    {
+                    "Name" = "8:mscorlib.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:mscorlib.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_DDBD501FD5804F83B54BA028FBF710B6"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:TRUE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_26F16E07CEEC4E8A8A6E89FABA12C982"
+            {
+            "SourcePath" = "8:..\\Cartheur.Animals.CF.App\\bin\\Debug\\personality\\insults.aeon"
+            "TargetName" = "8:insults.aeon"
+            "Tag" = "8:"
+            "Folder" = "8:_486CC51F87EC4BA49587A92204FE79C1"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_29EF74D752B94C7184C28365910AFE80"
+            {
+            "SourcePath" = "8:..\\Cartheur.Animals.CF.App\\bin\\Debug\\config\\Splitters.xml"
+            "TargetName" = "8:Splitters.xml"
+            "Tag" = "8:"
+            "Folder" = "8:_268B80877EB748468D13DCD23B472909"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_2A5CA126C3924273A33E9A043BFA0C1B"
+            {
+            "SourcePath" = "8:..\\Cartheur.Animals.CF.App\\bin\\Debug\\map\\epic1.map"
+            "TargetName" = "8:epic1.map"
+            "Tag" = "8:"
+            "Folder" = "8:_DBC832F476C948879614BBFBD1D4FBFC"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_2CA9920DB98742D582C5DAEFC3F08D69"
+            {
+            "SourcePath" = "8:..\\Cartheur.Animals.CF.App\\bin\\Debug\\personality\\music.aeon"
+            "TargetName" = "8:music.aeon"
+            "Tag" = "8:"
+            "Folder" = "8:_486CC51F87EC4BA49587A92204FE79C1"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_30CBCC811948AF28ACDDD43BE9C49CD3"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:System.Xml, Version=3.5.0.0, Culture=neutral, PublicKeyToken=969db8053d3322ac"
+                "ScatterAssemblies"
+                {
+                    "_30CBCC811948AF28ACDDD43BE9C49CD3"
+                    {
+                    "Name" = "8:System.Xml.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:System.Xml.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_DDBD501FD5804F83B54BA028FBF710B6"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:TRUE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_4185C700D598481690D0B3DF38555CA0"
+            {
+            "SourcePath" = "8:..\\Cartheur.Animals.CF.App\\bin\\Debug\\personality\\config.aeon"
+            "TargetName" = "8:config.aeon"
+            "Tag" = "8:"
+            "Folder" = "8:_486CC51F87EC4BA49587A92204FE79C1"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_48BD6EF5E016445D923BFAACDB5804AC"
+            {
+            "SourcePath" = "8:..\\Cartheur.Animals.CF.App\\bin\\Debug\\personality\\aeon_profile.aeon"
+            "TargetName" = "8:aeon_profile.aeon"
+            "Tag" = "8:"
+            "Folder" = "8:_486CC51F87EC4BA49587A92204FE79C1"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_4C320933799D4F9AAFB2665C84C00C96"
+            {
+            "SourcePath" = "8:..\\Cartheur.Animals.CF.App\\bin\\Debug\\personality\\dialog.aeon"
+            "TargetName" = "8:dialog.aeon"
+            "Tag" = "8:"
+            "Folder" = "8:_486CC51F87EC4BA49587A92204FE79C1"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_4E54897DBD18486E902A9E7C630D13D3"
+            {
+            "SourcePath" = "8:..\\Cartheur.Animals.CF.App\\bin\\Debug\\map\\10x10.map"
+            "TargetName" = "8:10x10.map"
+            "Tag" = "8:"
+            "Folder" = "8:_DBC832F476C948879614BBFBD1D4FBFC"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_52059F1412B94151B647E66F5A6362FF"
+            {
+            "SourcePath" = "8:..\\Cartheur.Animals.CF.App\\bin\\Debug\\config\\Substitutions.xml"
+            "TargetName" = "8:Substitutions.xml"
+            "Tag" = "8:"
+            "Folder" = "8:_268B80877EB748468D13DCD23B472909"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_5C7E00F2CD5B45B28C6497BFCA52E346"
+            {
+            "SourcePath" = "8:..\\Cartheur.Animals.CF.App\\bin\\Debug\\map\\epic3.map"
+            "TargetName" = "8:epic3.map"
+            "Tag" = "8:"
+            "Folder" = "8:_DBC832F476C948879614BBFBD1D4FBFC"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_61B4B9514355485D8D18CCC9CD4EF3A2"
+            {
+            "SourcePath" = "8:..\\Cartheur.Animals.CF.App\\bin\\Debug\\map\\epic2.map"
+            "TargetName" = "8:epic2.map"
+            "Tag" = "8:"
+            "Folder" = "8:_DBC832F476C948879614BBFBD1D4FBFC"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_6977AC191CFB477EBFA6A426981151EF"
+            {
+            "SourcePath" = "8:..\\Cartheur.Animals.CF.App\\bin\\Debug\\logs\\transcript.txt"
+            "TargetName" = "8:transcript.txt"
+            "Tag" = "8:"
+            "Folder" = "8:_0AF9D964C0944BD69105F7FF47E65E62"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_6A21A77DA01241B19D789B4B7C1C946A"
+            {
+            "SourcePath" = "8:..\\Cartheur.Animals.CF.App\\bin\\Debug\\personality\\udc.aeon"
+            "TargetName" = "8:udc.aeon"
+            "Tag" = "8:"
+            "Folder" = "8:_486CC51F87EC4BA49587A92204FE79C1"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_6C509F7040A4F479BC235355028B96CF"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Cartheur.Animals.CF.Gui, Version=2.1.0.26793, Culture=neutral"
+                "ScatterAssemblies"
+                {
+                    "_6C509F7040A4F479BC235355028B96CF"
+                    {
+                    "Name" = "8:Cartheur.Animals.CF.Gui.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:Cartheur.Animals.CF.Gui.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_DDBD501FD5804F83B54BA028FBF710B6"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_6CDDCB20151A4D40BD11A8AF164A4A70"
+            {
+            "SourcePath" = "8:..\\Cartheur.Animals.CF.App\\bin\\Debug\\logs\\logfile.txt"
+            "TargetName" = "8:logfile.txt"
+            "Tag" = "8:"
+            "Folder" = "8:_0AF9D964C0944BD69105F7FF47E65E62"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_6EAC3AF2D3134C6EB814573D3A08D6E3"
+            {
+            "SourcePath" = "8:..\\Cartheur.Animals.CF.App\\bin\\Debug\\reductions\\reductions1.aeon"
+            "TargetName" = "8:reductions1.aeon"
+            "Tag" = "8:"
+            "Folder" = "8:_92EFCFD2FB2A46F5875555E405C83CA7"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_6FE3532729B5492798763FF3303B3AC7"
+            {
+            "SourcePath" = "8:..\\Cartheur.Animals.CF.App\\bin\\Debug\\personality\\utilities.aeon"
+            "TargetName" = "8:utilities.aeon"
+            "Tag" = "8:"
+            "Folder" = "8:_486CC51F87EC4BA49587A92204FE79C1"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_732A5D9BD9CB44DE8D054322ED35FA70"
+            {
+            "SourcePath" = "8:..\\Cartheur.Animals.CF.App\\bin\\Debug\\config\\Settings.xml"
+            "TargetName" = "8:Settings.xml"
+            "Tag" = "8:"
+            "Folder" = "8:_268B80877EB748468D13DCD23B472909"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_79C097A65D1D43A094CCCCED06200F16"
+            {
+            "SourcePath" = "8:..\\Cartheur.Animals.CF.App\\bin\\Debug\\personality\\alone.aeon"
+            "TargetName" = "8:alone.aeon"
+            "Tag" = "8:"
+            "Folder" = "8:_486CC51F87EC4BA49587A92204FE79C1"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_7E90094EF04445D89D07226C491DD2B1"
+            {
+            "SourcePath" = "8:..\\Cartheur.Animals.CF.App\\bin\\Debug\\personality\\learn.aeon"
+            "TargetName" = "8:learn.aeon"
+            "Tag" = "8:"
+            "Folder" = "8:_486CC51F87EC4BA49587A92204FE79C1"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_8E709DC7246F4CCCBD55F73743FA0F72"
+            {
+            "SourcePath" = "8:..\\Cartheur.Animals.CF.App\\bin\\Debug\\config\\DefaultPredicates.xml"
+            "TargetName" = "8:DefaultPredicates.xml"
+            "Tag" = "8:"
+            "Folder" = "8:_268B80877EB748468D13DCD23B472909"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_8FB9B37DFBB5DBA09474AEA6792DB60C"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:System.Xml.Linq, Version=3.5.0.0, Culture=neutral, PublicKeyToken=969db8053d3322ac"
+                "ScatterAssemblies"
+                {
+                    "_8FB9B37DFBB5DBA09474AEA6792DB60C"
+                    {
+                    "Name" = "8:System.Xml.Linq.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:System.Xml.Linq.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_DDBD501FD5804F83B54BA028FBF710B6"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:TRUE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_97A3954612A54475B4886F68F6EDF567"
+            {
+            "SourcePath" = "8:..\\Cartheur.Animals.CF.App\\bin\\Debug\\personality\\profanity.aeon"
+            "TargetName" = "8:profanity.aeon"
+            "Tag" = "8:"
+            "Folder" = "8:_486CC51F87EC4BA49587A92204FE79C1"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_A90D2E8CC7A341EA94674BB73AEEF0B1"
+            {
+            "SourcePath" = "8:..\\Cartheur.Animals.CF.App\\bin\\Debug\\update\\update.aeon"
+            "TargetName" = "8:update.aeon"
+            "Tag" = "8:"
+            "Folder" = "8:_DA07506BF55C47A692B8937E84220D53"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_AD925EB185B14DD7ADDD94C8135BF9D7"
+            {
+            "SourcePath" = "8:..\\Cartheur.Animals.CF.App\\bin\\Debug\\config\\PersonSubstitutions.xml"
+            "TargetName" = "8:PersonSubstitutions.xml"
+            "Tag" = "8:"
+            "Folder" = "8:_268B80877EB748468D13DCD23B472909"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_AF21C59385D34F7085D5183925323242"
+            {
+            "SourcePath" = "8:..\\Cartheur.Animals.CF.App\\bin\\Debug\\add\\holiday.aeon"
+            "TargetName" = "8:holiday.aeon"
+            "Tag" = "8:"
+            "Folder" = "8:_9ECA0F694CD44FAFAF45053078A34CEF"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_B4A9B61E77920B5D7FEDD3569D40FAC2"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:System, Version=3.5.0.0, Culture=neutral, PublicKeyToken=969db8053d3322ac"
+                "ScatterAssemblies"
+                {
+                    "_B4A9B61E77920B5D7FEDD3569D40FAC2"
+                    {
+                    "Name" = "8:System.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:System.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_DDBD501FD5804F83B54BA028FBF710B6"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:TRUE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_B519EE1FC211E4D1FA07F95194A12A86"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Cartheur.Animals.CF, Version=2.1.0.26792, Culture=neutral"
+                "ScatterAssemblies"
+                {
+                    "_B519EE1FC211E4D1FA07F95194A12A86"
+                    {
+                    "Name" = "8:Cartheur.Animals.CF.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:Cartheur.Animals.CF.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_DDBD501FD5804F83B54BA028FBF710B6"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_B528F6CC22BA443FA1FF1118283734BC"
+            {
+            "SourcePath" = "8:..\\Cartheur.Animals.CF.App\\bin\\Debug\\config\\Person2Substitutions.xml"
+            "TargetName" = "8:Person2Substitutions.xml"
+            "Tag" = "8:"
+            "Folder" = "8:_268B80877EB748468D13DCD23B472909"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_B5514DD04A2244EAB3E54FAE5B21C636"
+            {
+            "SourcePath" = "8:..\\Cartheur.Animals.CF.App\\bin\\Debug\\personality\\date.aeon"
+            "TargetName" = "8:date.aeon"
+            "Tag" = "8:"
+            "Folder" = "8:_486CC51F87EC4BA49587A92204FE79C1"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_BB0A98A0CCFE408AA9A4CD94A3F6663D"
+            {
+            "SourcePath" = "8:..\\Cartheur.Animals.CF.App\\bin\\Debug\\personality\\personality.aeon"
+            "TargetName" = "8:personality.aeon"
+            "Tag" = "8:"
+            "Folder" = "8:_486CC51F87EC4BA49587A92204FE79C1"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_BF8D7DA9800D4CA29214EF954EE918BF"
+            {
+            "SourcePath" = "8:..\\Cartheur.Animals.CF.App\\bin\\Debug\\mindpixel\\mp0.aeon"
+            "TargetName" = "8:mp0.aeon"
+            "Tag" = "8:"
+            "Folder" = "8:_6446F356F2D0435D99A81D4A288547A5"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_C4ABCE0DE5CC442E846C35C7AF9F68DD"
+            {
+            "SourcePath" = "8:..\\Cartheur.Animals.CF.App\\bin\\Debug\\db\\AnimalAnalyticsStorage.txt"
+            "TargetName" = "8:AnimalAnalyticsStorage.txt"
+            "Tag" = "8:"
+            "Folder" = "8:_A885ADF8ACB54E8899EE7D433BF5C18A"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_D2241B94227C497997605210B474BD4C"
+            {
+            "SourcePath" = "8:..\\Cartheur.Animals.CF.App\\bin\\Debug\\db\\AnimalAnalytics.db"
+            "TargetName" = "8:AnimalAnalytics.db"
+            "Tag" = "8:"
+            "Folder" = "8:_A885ADF8ACB54E8899EE7D433BF5C18A"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_D51C64B59B2940ED8238215A773B1CF6"
+            {
+            "SourcePath" = "8:..\\Cartheur.Animals.CF.App\\bin\\Debug\\personality\\train.aeon"
+            "TargetName" = "8:train.aeon"
+            "Tag" = "8:"
+            "Folder" = "8:_486CC51F87EC4BA49587A92204FE79C1"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_D97073CB14FC4DC89BA6ADB2D4468B42"
+            {
+            "SourcePath" = "8:..\\Cartheur.Animals.CF.App\\bin\\Debug\\personality\\default.aeon"
+            "TargetName" = "8:default.aeon"
+            "Tag" = "8:"
+            "Folder" = "8:_486CC51F87EC4BA49587A92204FE79C1"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_DA8C72A346504E4386FE24DDE7786175"
+            {
+            "SourcePath" = "8:..\\Cartheur.Animals.CF.App\\bin\\Debug\\personality\\client_profile.aeon"
+            "TargetName" = "8:client_profile.aeon"
+            "Tag" = "8:"
+            "Folder" = "8:_486CC51F87EC4BA49587A92204FE79C1"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_DAA3456E5EF640248E6F90C2795CEFBC"
+            {
+            "SourcePath" = "8:..\\Cartheur.Animals.CF.App\\bin\\Debug\\map\\6x6.map"
+            "TargetName" = "8:6x6.map"
+            "Tag" = "8:"
+            "Folder" = "8:_DBC832F476C948879614BBFBD1D4FBFC"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_DB537AA5039E49E0BBC793B8420E24ED"
+            {
+            "SourcePath" = "8:..\\Cartheur.Animals.CF.App\\bin\\Debug\\personality\\that.aeon"
+            "TargetName" = "8:that.aeon"
+            "Tag" = "8:"
+            "Folder" = "8:_486CC51F87EC4BA49587A92204FE79C1"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_E9D58A73E65C4871A678995135B10C47"
+            {
+            "SourcePath" = "8:..\\Cartheur.Animals.CF.App\\bin\\Debug\\personality\\inappropriate.aeon"
+            "TargetName" = "8:inappropriate.aeon"
+            "Tag" = "8:"
+            "Folder" = "8:_486CC51F87EC4BA49587A92204FE79C1"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_ECBE8345D41748C3BE88186A4A46EB8F"
+            {
+            "SourcePath" = "8:..\\Cartheur.Animals.CF.App\\bin\\Debug\\personality\\inquiry.aeon"
+            "TargetName" = "8:inquiry.aeon"
+            "Tag" = "8:"
+            "Folder" = "8:_486CC51F87EC4BA49587A92204FE79C1"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_FAE6BB8C65884D07886553CE9485120A"
+            {
+            "SourcePath" = "8:..\\Cartheur.Animals.CF.App\\bin\\Debug\\personality\\animal.aeon"
+            "TargetName" = "8:animal.aeon"
+            "Tag" = "8:"
+            "Folder" = "8:_486CC51F87EC4BA49587A92204FE79C1"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+        }
+        "Folder"
+        {
+            "{F6DFDB62-1DD1-498B-89B7-27BAC542EE5A}:_A20DB40D3B0648E3A1E420ECB2385636"
+            {
+            "Name" = "8:#1911"
+            "Condition" = "8:"
+            "Property" = "8:%CE1%"
+                "Folders"
+                {
+                    "{5943FCFD-5B64-4EE4-96C9-4618EC95352A}:_32034641B1514E37BB36D6987A085C6B"
+                    {
+                    "Name" = "8:Emotional Toys"
+                    "Condition" = "8:"
+                    "Property" = "8:_0FBC1CB875EA402D94899D67634E42FD"
+                        "Folders"
+                        {
+                            "{5943FCFD-5B64-4EE4-96C9-4618EC95352A}:_0AF9D964C0944BD69105F7FF47E65E62"
+                            {
+                            "Name" = "8:logs"
+                            "Condition" = "8:"
+                            "Property" = "8:_F5619CC383F4415A834997813CBB85ED"
+                                "Folders"
+                                {
+                                }
+                            }
+                            "{5943FCFD-5B64-4EE4-96C9-4618EC95352A}:_268B80877EB748468D13DCD23B472909"
+                            {
+                            "Name" = "8:config"
+                            "Condition" = "8:"
+                            "Property" = "8:_2271193B007D414AAE21EC1C3ACEF00E"
+                                "Folders"
+                                {
+                                }
+                            }
+                            "{5943FCFD-5B64-4EE4-96C9-4618EC95352A}:_486CC51F87EC4BA49587A92204FE79C1"
+                            {
+                            "Name" = "8:personality"
+                            "Condition" = "8:"
+                            "Property" = "8:_9D6B7F8ECEA647A6B5D0DA877C409915"
+                                "Folders"
+                                {
+                                }
+                            }
+                            "{5943FCFD-5B64-4EE4-96C9-4618EC95352A}:_6446F356F2D0435D99A81D4A288547A5"
+                            {
+                            "Name" = "8:mindpixel"
+                            "Condition" = "8:"
+                            "Property" = "8:_CEF792DED64C49FBACF91A71329BFE1C"
+                                "Folders"
+                                {
+                                }
+                            }
+                            "{5943FCFD-5B64-4EE4-96C9-4618EC95352A}:_92EFCFD2FB2A46F5875555E405C83CA7"
+                            {
+                            "Name" = "8:reductions"
+                            "Condition" = "8:"
+                            "Property" = "8:_AC553157C60B45DE890BB60A4FD3FF4D"
+                                "Folders"
+                                {
+                                }
+                            }
+                            "{5943FCFD-5B64-4EE4-96C9-4618EC95352A}:_9ECA0F694CD44FAFAF45053078A34CEF"
+                            {
+                            "Name" = "8:add"
+                            "Condition" = "8:"
+                            "Property" = "8:_93D58B739A0D4A02A87A6F3EF6BB5858"
+                                "Folders"
+                                {
+                                }
+                            }
+                            "{5943FCFD-5B64-4EE4-96C9-4618EC95352A}:_A885ADF8ACB54E8899EE7D433BF5C18A"
+                            {
+                            "Name" = "8:db"
+                            "Condition" = "8:"
+                            "Property" = "8:_E881F36E058B4EF0A0CFD2C00E4C1B81"
+                                "Folders"
+                                {
+                                }
+                            }
+                            "{5943FCFD-5B64-4EE4-96C9-4618EC95352A}:_B3B2AE83B60A48DF8A624B48924ACA24"
+                            {
+                            "Name" = "8:libraries"
+                            "Condition" = "8:"
+                            "Property" = "8:_79069FF6EADE4EC5A8CB71727F408CCF"
+                                "Folders"
+                                {
+                                }
+                            }
+                            "{5943FCFD-5B64-4EE4-96C9-4618EC95352A}:_DA07506BF55C47A692B8937E84220D53"
+                            {
+                            "Name" = "8:update"
+                            "Condition" = "8:"
+                            "Property" = "8:_C04B96E28B144817BD5BE69F779B9FFA"
+                                "Folders"
+                                {
+                                }
+                            }
+                            "{5943FCFD-5B64-4EE4-96C9-4618EC95352A}:_DBC832F476C948879614BBFBD1D4FBFC"
+                            {
+                            "Name" = "8:map"
+                            "Condition" = "8:"
+                            "Property" = "8:_D73A56E9D59B4C2E8DB3D37AD5BF9C10"
+                                "Folders"
+                                {
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+            "{D5B00AC1-E6C3-4CC5-90FF-8E0F53D9E5E0}:_DDBD501FD5804F83B54BA028FBF710B6"
+            {
+            "DefaultLocation" = "8:%InstallDir%"
+            "Name" = "8:#1920"
+            "Condition" = "8:"
+            "Property" = "8:%InstallDir%"
+                "Folders"
+                {
+                }
+            }
+            "{F6DFDB62-1DD1-498B-89B7-27BAC542EE5A}:_EBD8515A72BE47D0968A67DE2116F958"
+            {
+            "Name" = "8:#1916"
+            "Condition" = "8:"
+            "Property" = "8:%CE11%"
+                "Folders"
+                {
+                }
+            }
+        }
+        "Product"
+        {
+        "Name" = "8:Microsoft Visual Studio"
+        "ProductName" = "8:Emotional Toys"
+        "Manufacturer" = "8:Cartheur Robotics"
+        "OSVersionMin" = "8:4.0"
+        "OSVersionMax" = "8:6.99"
+        "NoUninstall" = "11:FALSE"
+        "Compress" = "11:FALSE"
+        "CESetupDLL" = "8:"
+        }
+        "ProjectOutput"
+        {
+            "{605BE39E-5046-48BD-AEC0-63C3A46626D5}:_E82D7F599DFC4DBEA1E52CEE2E49564E"
+            {
+            "SourcePath" = "8:..\\Cartheur.Animals.CF.App\\obj\\Release\\Cartheur.Animals.CF.App.exe"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_DDBD501FD5804F83B54BA028FBF710B6"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            "ProjectOutputGroupRegister" = "3:0"
+            "OutputConfiguration" = "8:"
+            "OutputGroupCanonicalName" = "8:Built"
+            "OutputProjectGuid" = "8:{D903891B-CE05-4694-A308-0B57F90006E5}"
+            "ShowKeyOutput" = "11:TRUE"
+                "ExcludeFilters"
+                {
+                }
+            }
+        }
+        "Registry"
+        {
+            "HKLM"
+            {
+                "Keys"
+                {
+                    "{B1EBC968-6B66-4532-A885-748B79AF4477}:_E235436F88F1425AA13BE9832A159009"
+                    {
+                    "Name" = "8:Software"
+                    "Condition" = "8:"
+                        "Keys"
+                        {
+                            "{B1EBC968-6B66-4532-A885-748B79AF4477}:_2A1737350CBA400981CB63BBB45639E9"
+                            {
+                            "Name" = "8:Cartheur Robotics"
+                            "Condition" = "8:"
+                                "Keys"
+                                {
+                                    "{B1EBC968-6B66-4532-A885-748B79AF4477}:_CCA6629736484FB3B39BBDAD4C527F27"
+                                    {
+                                    "Name" = "8:Emotional Toys"
+                                    "Condition" = "8:"
+                                        "Keys"
+                                        {
+                                        }
+                                        "Values"
+                                        {
+                                            "{C3684F64-58E2-4092-8E3C-D7483080DE5A}:_9FE222D235674E2EABC781EF7006165F"
+                                            {
+                                            "Name" = "8:Version"
+                                            "Condition" = "8:"
+                                            "ValueTypes" = "3:1"
+                                            "Value" = "8:2.1.0"
+                                            }
+                                        }
+                                    }
+                                }
+                                "Values"
+                                {
+                                }
+                            }
+                        }
+                        "Values"
+                        {
+                        }
+                    }
+                }
+            }
+            "HKCU"
+            {
+                "Keys"
+                {
+                }
+            }
+            "HKCR"
+            {
+                "Keys"
+                {
+                }
+            }
+            "HKU"
+            {
+                "Keys"
+                {
+                }
+            }
+            "HKPU"
+            {
+                "Keys"
+                {
+                }
+            }
+        }
+        "Shortcut"
+        {
+            "{971D45E9-E38C-49AC-B36E-4C5BEA533350}:_87047BE0179C4757A4F502743633B420"
+            {
+            "Name" = "8:Emotional toys"
+            "Arguments" = "8:"
+            "Description" = "8:"
+            "ShowCmd" = "3:1"
+            "Target" = "8:_E82D7F599DFC4DBEA1E52CEE2E49564E"
+            "Folder" = "8:_EBD8515A72BE47D0968A67DE2116F958"
+            "WorkingFolder" = "8:_DDBD501FD5804F83B54BA028FBF710B6"
+            }
+        }
+    }
+}

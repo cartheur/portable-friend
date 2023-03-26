@@ -1,0 +1,40 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cartheur.Animals.CF.Gui", "Cartheur.Animals.CF.Gui\Cartheur.Animals.CF.Gui.csproj", "{EF1C4EDE-FA44-4E80-98D0-982C2B126A1F}"
+EndProject
+Project("{B900F1C2-3D47-4FEC-85B3-04AAF18C3634}") = "EmotionalToys", "EmotionalToysInstaller\EmotionalToysInstaller.vddproj", "{FAC6C49C-E1C0-45AD-A710-189844A5C69B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cartheur.Animals.CF.App", "Cartheur.Animals.CF.App\Cartheur.Animals.CF.App.csproj", "{D903891B-CE05-4694-A308-0B57F90006E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cartheur.Animals.CF", "Cartheur.Animals.CF\Cartheur.Animals.CF.csproj", "{A2AA9BEB-5832-49A0-87A2-D8301C136B48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF1C4EDE-FA44-4E80-98D0-982C2B126A1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF1C4EDE-FA44-4E80-98D0-982C2B126A1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF1C4EDE-FA44-4E80-98D0-982C2B126A1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF1C4EDE-FA44-4E80-98D0-982C2B126A1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF1C4EDE-FA44-4E80-98D0-982C2B126A1F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{FAC6C49C-E1C0-45AD-A710-189844A5C69B}.Debug|Any CPU.ActiveCfg = Debug
+		{FAC6C49C-E1C0-45AD-A710-189844A5C69B}.Release|Any CPU.ActiveCfg = Release
+		{FAC6C49C-E1C0-45AD-A710-189844A5C69B}.Release|Any CPU.Build.0 = Release
+		{D903891B-CE05-4694-A308-0B57F90006E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D903891B-CE05-4694-A308-0B57F90006E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D903891B-CE05-4694-A308-0B57F90006E5}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D903891B-CE05-4694-A308-0B57F90006E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D903891B-CE05-4694-A308-0B57F90006E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D903891B-CE05-4694-A308-0B57F90006E5}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{A2AA9BEB-5832-49A0-87A2-D8301C136B48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2AA9BEB-5832-49A0-87A2-D8301C136B48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2AA9BEB-5832-49A0-87A2-D8301C136B48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2AA9BEB-5832-49A0-87A2-D8301C136B48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2AA9BEB-5832-49A0-87A2-D8301C136B48}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

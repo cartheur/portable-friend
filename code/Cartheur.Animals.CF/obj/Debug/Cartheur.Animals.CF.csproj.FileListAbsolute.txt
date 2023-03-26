@@ -1,0 +1,8 @@
+c:\aeonWorkingDirectory\aeon\core-wm\Cartheur.Animals.CF\bin\Debug\Cartheur.Animals.CF.dll
+c:\aeonWorkingDirectory\aeon\core-wm\Cartheur.Animals.CF\bin\Debug\Cartheur.Animals.CF.pdb
+c:\aeonWorkingDirectory\aeon\core-wm\Cartheur.Animals.CF\obj\Debug\ResolveAssemblyReference.cache
+c:\aeonWorkingDirectory\aeon\core-wm\Cartheur.Animals.CF\obj\Debug\Cartheur.Animals.CF.Learning.Maps.CellularWorld.resources
+c:\aeonWorkingDirectory\aeon\core-wm\Cartheur.Animals.CF\obj\Debug\Cartheur.Animals.CF.Properties.Resources.resources
+c:\aeonWorkingDirectory\aeon\core-wm\Cartheur.Animals.CF\obj\Debug\Cartheur.Animals.CF.csproj.GenerateResource.Cache
+c:\aeonWorkingDirectory\aeon\core-wm\Cartheur.Animals.CF\obj\Debug\Cartheur.Animals.CF.dll
+c:\aeonWorkingDirectory\aeon\core-wm\Cartheur.Animals.CF\obj\Debug\Cartheur.Animals.CF.pdb

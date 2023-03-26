@@ -7,9 +7,7 @@ This code was written in Visual Studio 2005/2008 with the Windows Mobile 6 Stand
 
 * Visual Studio 2008 (You only need the C# and Device support - see figure)
 * Visual Studio 2008 SP1 (the VM will restart on each step of VS installation)
-* Device Center x86 (if using Vista)
-* Active Sync 4.5 (if Using XP)
+* Active Sync 4.5
 * Windows Mobile 6 Standard SDK
-
-* Download and install the Microsoft Device Emulator 3
-* Download and install the Windows Mobile 6 Professional Images
+* Microsoft Device Emulator 2 & 3
+* Windows Mobile 6 Professional Images

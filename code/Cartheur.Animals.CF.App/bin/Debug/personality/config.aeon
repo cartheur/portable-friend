@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aeon version="2.0">
+	<category>
+		<pattern>XSET ENV *</pattern>
+		<template>Environment is <set name="env">
+				<star/>
+			</set>
+		</template>
+	</category>
+	<category>
+		<pattern>XSET DEVICE *</pattern>
+		<template>Device is <set name="device">
+				<star/>
+			</set>
+		</template>
+	</category>
+</aeon>

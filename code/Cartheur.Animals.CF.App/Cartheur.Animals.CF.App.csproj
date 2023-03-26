@@ -1,0 +1,192 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D903891B-CE05-4694-A308-0B57F90006E5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Cartheur.Animals.CF.App</RootNamespace>
+    <AssemblyName>Cartheur.Animals.CF.App</AssemblyName>
+    <ProjectTypeGuids>{4D628B5B-2FBC-4AA6-8C16-197242AEB884};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <PlatformFamilyName>Smartphone</PlatformFamilyName>
+    <PlatformID>f27da329-3269-4191-98e0-c87d3d7f1db9</PlatformID>
+    <OSVersion>5.2</OSVersion>
+    <DeployDirSuffix>Cartheur.Animals.CF.App</DeployDirSuffix>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <NativePlatformName>Windows Mobile 6 Standard SDK</NativePlatformName>
+    <FormFactorID>
+    </FormFactorID>
+    <ApplicationIcon>cartheur.ico</ApplicationIcon>
+    <StartupObject>Cartheur.Animals.CF.App.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;$(PlatformFamilyName)</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <FileAlignment>512</FileAlignment>
+    <WarningLevel>4</WarningLevel>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE;$(PlatformFamilyName)</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <FileAlignment>512</FileAlignment>
+    <WarningLevel>4</WarningLevel>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="mscorlib" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\config\DefaultPredicates.xml" />
+    <Content Include="bin\Debug\config\GenderSubstitutions.xml" />
+    <Content Include="bin\Debug\config\Person2Substitutions.xml" />
+    <Content Include="bin\Debug\config\PersonSubstitutions.xml" />
+    <Content Include="bin\Debug\config\Settings.xml" />
+    <Content Include="bin\Debug\config\Splitters.xml" />
+    <Content Include="bin\Debug\config\Substitutions.xml" />
+    <Content Include="bin\Debug\db\AnimalAnalytics.txt" />
+    <Content Include="bin\Debug\db\AnimalAnalyticsStorage.txt" />
+    <Content Include="bin\Debug\logs\logfile.txt" />
+    <Content Include="bin\Debug\logs\transcript.txt" />
+    <Content Include="bin\Release\config\DefaultPredicates.xml" />
+    <Content Include="bin\Release\config\GenderSubstitutions.xml" />
+    <Content Include="bin\Release\config\Person2Substitutions.xml" />
+    <Content Include="bin\Release\config\PersonSubstitutions.xml" />
+    <Content Include="bin\Release\config\Settings.xml" />
+    <Content Include="bin\Release\config\Splitters.xml" />
+    <Content Include="bin\Release\config\Substitutions.xml" />
+    <Content Include="bin\Release\db\AnimalAnalytics.txt" />
+    <Content Include="bin\Release\db\AnimalAnalyticsStorage.txt" />
+    <Content Include="bin\Release\logs\logfile.txt" />
+    <Content Include="bin\Release\logs\transcript.txt" />
+    <Content Include="cartheur.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Cartheur.Animals.CF.Gui\Cartheur.Animals.CF.Gui.csproj">
+      <Project>{EF1C4EDE-FA44-4E80-98D0-982C2B126A1F}</Project>
+      <Name>Cartheur.Animals.CF.Gui</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\add\geography.aeon" />
+    <None Include="bin\Debug\add\holiday.aeon" />
+    <None Include="bin\Debug\db\AnimalAnalytics.db" />
+    <None Include="bin\Debug\map\10x10.map" />
+    <None Include="bin\Debug\map\6x6.map" />
+    <None Include="bin\Debug\map\epic1.map" />
+    <None Include="bin\Debug\map\epic2.map" />
+    <None Include="bin\Debug\map\epic3.map" />
+    <None Include="bin\Debug\mindpixel\mp0.aeon" />
+    <None Include="bin\Debug\personality\aeon_profile.aeon" />
+    <None Include="bin\Debug\personality\alone.aeon" />
+    <None Include="bin\Debug\personality\animal.aeon" />
+    <None Include="bin\Debug\personality\badanswer.aeon" />
+    <None Include="bin\Debug\personality\client_profile.aeon" />
+    <None Include="bin\Debug\personality\config.aeon" />
+    <None Include="bin\Debug\personality\date.aeon" />
+    <None Include="bin\Debug\personality\default.aeon" />
+    <None Include="bin\Debug\personality\dialog.aeon" />
+    <None Include="bin\Debug\personality\inappropriate.aeon" />
+    <None Include="bin\Debug\personality\inquiry.aeon" />
+    <None Include="bin\Debug\personality\insults.aeon" />
+    <None Include="bin\Debug\personality\iu.aeon" />
+    <None Include="bin\Debug\personality\knowledge.aeon" />
+    <None Include="bin\Debug\personality\learn.aeon" />
+    <None Include="bin\Debug\personality\music.aeon" />
+    <None Include="bin\Debug\personality\personality.aeon" />
+    <None Include="bin\Debug\personality\profanity.aeon" />
+    <None Include="bin\Debug\personality\that.aeon" />
+    <None Include="bin\Debug\personality\train.aeon" />
+    <None Include="bin\Debug\personality\udc.aeon" />
+    <None Include="bin\Debug\personality\utilities.aeon" />
+    <None Include="bin\Debug\personality\xfind.aeon" />
+    <None Include="bin\Debug\reductions\reductions-update.aeon" />
+    <None Include="bin\Debug\reductions\reductions1.aeon" />
+    <None Include="bin\Debug\reductions\reductions2.aeon" />
+    <None Include="bin\Debug\update\update.aeon" />
+    <None Include="bin\Release\add\geography.aeon" />
+    <None Include="bin\Release\add\holiday.aeon" />
+    <None Include="bin\Release\db\AnimalAnalytics.db" />
+    <None Include="bin\Release\map\10x10.map" />
+    <None Include="bin\Release\map\6x6.map" />
+    <None Include="bin\Release\map\epic1.map" />
+    <None Include="bin\Release\map\epic2.map" />
+    <None Include="bin\Release\map\epic3.map" />
+    <None Include="bin\Release\mindpixel\mp0.aeon" />
+    <None Include="bin\Release\personality\aeon_profile.aeon" />
+    <None Include="bin\Release\personality\alone.aeon" />
+    <None Include="bin\Release\personality\animal.aeon" />
+    <None Include="bin\Release\personality\badanswer.aeon" />
+    <None Include="bin\Release\personality\client_profile.aeon" />
+    <None Include="bin\Release\personality\config.aeon" />
+    <None Include="bin\Release\personality\date.aeon" />
+    <None Include="bin\Release\personality\default.aeon" />
+    <None Include="bin\Release\personality\dialog.aeon" />
+    <None Include="bin\Release\personality\inappropriate.aeon" />
+    <None Include="bin\Release\personality\inquiry.aeon" />
+    <None Include="bin\Release\personality\insults.aeon" />
+    <None Include="bin\Release\personality\iu.aeon" />
+    <None Include="bin\Release\personality\knowledge.aeon" />
+    <None Include="bin\Release\personality\learn.aeon" />
+    <None Include="bin\Release\personality\music.aeon" />
+    <None Include="bin\Release\personality\personality.aeon" />
+    <None Include="bin\Release\personality\profanity.aeon" />
+    <None Include="bin\Release\personality\that.aeon" />
+    <None Include="bin\Release\personality\train.aeon" />
+    <None Include="bin\Release\personality\udc.aeon" />
+    <None Include="bin\Release\personality\utilities.aeon" />
+    <None Include="bin\Release\personality\xfind.aeon" />
+    <None Include="bin\Release\reductions\reductions-update.aeon" />
+    <None Include="bin\Release\reductions\reductions1.aeon" />
+    <None Include="bin\Release\reductions\reductions2.aeon" />
+    <None Include="bin\Release\update\update.aeon" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Debug\libraries\" />
+    <Folder Include="bin\Release\libraries\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CompactFramework.CSharp.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}">
+        <HostingProcess disable="1" />
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
